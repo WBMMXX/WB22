@@ -2,3 +2,4 @@ User-agent: Googlebot-Image
 Disallow: /output-onlinepngtools%20(5).png
 Disallow: /IMG_20210816_111135.png
 Disallow: /WARBODY.PNG
+Disallow: /9272639.svg
